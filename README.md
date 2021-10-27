@@ -2,6 +2,7 @@
 <p align="center">
   <img src="BadMail.png">
 </p>
+
 ## A responsibility
 The author is not responsible for the damage caused by this program
 
