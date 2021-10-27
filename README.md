@@ -2,7 +2,6 @@
 <p align="center">
   <img src="BadMail.png">
 </p>
-
 ## A responsibility
 The author is not responsible for the damage caused by this program
 
@@ -30,6 +29,11 @@ python badmail.py --help
 
 ## Usage
 ```python badmail.py --message "Test message" --subject "Some subject" --threads 30 --target someemaillol@gmail.com```
+
+## Smtp's
+smtp.gmail.com
+smtp.yandex.ru
+smtp.mail.ru
 
 ## Contact with author
 

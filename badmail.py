@@ -43,7 +43,7 @@ args = parser.parse_args()
 def send_mail():
 	login = input(f'{Fore.CYAN}Enter your email: ')
 	password = getpass.getpass(prompt=f'{Fore.CYAN}Enter your password from email: ', stream=None) 
-	url = input(f'{Fore.CYAN}URL: ')
+	url = input(f'{Fore.CYAN}Smtp URL: ')
 	toaddr = args.target
 	topic = args.subject
 	message = args.message
