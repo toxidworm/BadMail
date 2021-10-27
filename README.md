@@ -1,0 +1,2 @@
+# BadMail
+Simple Email Spammer
